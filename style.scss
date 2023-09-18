@@ -1,0 +1,16 @@
+// import MAIN bootstrap SASS file
+
+@import 'scss/functions';
+
+// CUSTOM VARIABLES
+@import 'variables.scss';
+@import 'scss/bootstrap.scss';
+
+
+.navbar {
+    
+    a {
+        color: white !important;
+    }
+}
+
